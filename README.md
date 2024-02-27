@@ -1,7 +1,5 @@
 ### Hi !! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Data Analyst
 - 🌱 Je viens de terminer la formation Data Analyst avec OpenClassrooms
 - 👯 Je suis à la recherche d'un contrat ou freelancer
