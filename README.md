@@ -1,4 +1,4 @@
-### Hello je suis Mame Diarra DABO !! 👋
+### Salut je suis Mame Diarra DABO !! 👋
 
 - 🔭 Data Analyst
 - 🌱 Je viens de terminer la formation Data Analyst avec OpenClassrooms
