@@ -17,6 +17,7 @@ Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours D
 Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
 
 ### Faites une analyse des ventes pour un e-commerce
+(https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/9744f3c1-7f63-4beb-954a-e5379c2d54e4)
 
 ### Créez et utilisez une base de données immobilière avec SQL
 
