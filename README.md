@@ -27,6 +27,8 @@ Vous trouverez ci dessous l'intitulé des différents projets et les compétence
 
 ### Analysez les ventes d'une librairie avec R ou Python
 
+
+
 ### Analysez des indicateurs de l'égalité femme-homme avec Knime
 
 ### Faites une étude sur l'eau potable
