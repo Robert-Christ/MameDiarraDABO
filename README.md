@@ -23,6 +23,8 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 ![Capture d’écran (1207)](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/9744f3c1-7f63-4beb-954a-e5379c2d54e4)
 
 ## Mission: 
+* Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
+* Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ).
 
 ## Compétences:
   * Générer des graphiques adaptés aux types de données
@@ -41,6 +43,10 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 ![Capture d’écran](https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg)
 
 ## Mission: 
+* Préparer Le dictionnaire des données en respectant le Template ;
+* Modifier le schéma relationnel pour qu’il prenne en compte les nouvelles données;
+* Implémenter les tables dans la base de données;
+* Faire des requêtes pour extraire des informations.
 
 ## Compétences:
   * Charger des données dans une base de données
@@ -60,8 +66,16 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 
 ![image](https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp)
 
-## Mission: 
-
+## Mission:
+* La proportion de personnes en état de sous-nutrition ;
+* Le nombre théorique de personnes qui pourraient être nourries à partir de la disponibilité alimentaire mondiale ;
+* La disponibilité alimentaire des produits végétaux ;
+* Calculer des proportions à partir de la disponibilité intérieure.
+* les pays pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017;
+* ceux qui ont le plus bénéficié d’aide depuis 2013;
+* ceux ayant le plus/le moins de disponibilité/habitant;
+* Toutes les infos que je trouverais utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
+  
 ## Compétences: 
   * Rédiger et présenter une méthodologie d'exploration et d'analyse des données
   * Manipuler des DataFrames
@@ -76,7 +90,11 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 
 ![image](https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg)
 
-## Mission: 
+## Mission:
+* Rapprocher deux exports ;
+* Le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaire réalisé en ligne ;
+* La vérification des erreurs de saisie dans certains prix des produits ;
+* Effectuer une analyse sur cette variable afin de détecter des valeurs aberrantes. 
 
 ## Compétences:
   * Réaliser une analyse univariée pour interpréter des données
@@ -98,7 +116,8 @@ Antoine, Business Analyst.
 ![image](https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg)
 
 ## Mission:
-
+* Une analyse des différents indicateurs de vente ;
+* Une analyse plus ciblée sur les clients.
 ## Compétences:
   * Réaliser un test statistique
   * Réaliser une analyse bivariée pour interpréter des données
@@ -109,6 +128,23 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 ## Analysez des indicateurs de l'égalité femme-homme avec Knime
 ## Problématique:
+Vous êtes data analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés devient un véritable enjeu stratégique.
+Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
+Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
+
+![image](https://www.optionfinance.fr/fileadmin/_processed_/3/f/csm_Capturedecran2022-10-28a10.38.21_4e74629b9f.png)
+
+## Mission:
+* Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
+* Sauvegarder un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
+
+## Compétences:
+* Collecter des données en respectant le RGPD
+* Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
+* Transférer des données vers une zone de préparation
+
+## Outils utilisés:
+Excel, Python, KNIME
 
 ### Faites une étude sur l'eau potable
 
