@@ -20,7 +20,7 @@ Vous trouverez ci dessous l'intitulé des différents projets et les compétence
 ## Problématique: 
 Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 
-![Capture d’écran (1207)](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/9744f3c1-7f63-4beb-954a-e5379c2d54e4)
+![Capture d’écran (1207)](![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 
 ## Mission: 
 * Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
@@ -84,7 +84,7 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-# Optimisez la gestion des données d'une boutique avec R ou Python
+# Optimisez la gestion des données d'une boutique avec Python
 ## Problématique:
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 
@@ -104,7 +104,7 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 # Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-# Analysez les ventes d'une librairie avec R ou Python
+# Analysez les ventes d'une librairie avec Python
 ## Problématique:
 L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
 La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle vous a recruté. Vous intervenez en tant que Data Analyst afin de faire le point sur l’activité. 
@@ -118,6 +118,7 @@ Antoine, Business Analyst.
 ## Mission:
 * Une analyse des différents indicateurs de vente ;
 * Une analyse plus ciblée sur les clients.
+  
 ## Compétences:
   * Réaliser un test statistique
   * Réaliser une analyse bivariée pour interpréter des données
@@ -126,7 +127,7 @@ Antoine, Business Analyst.
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-## Analysez des indicateurs de l'égalité femme-homme avec Knime
+# Analysez des indicateurs de l'égalité femme-homme avec Knime
 ## Problématique:
 Vous êtes data analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés devient un véritable enjeu stratégique.
 Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
@@ -146,10 +147,42 @@ Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doive
 ## Outils utilisés:
 Excel, Python, KNIME
 
-### Faites une étude sur l'eau potable
+# Faites une étude sur l'eau potable
+## Problématique:
+Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
+* DWFA présente 3 domaines d’expertises :
+   * Création de services d’accès à l’eau potable ;
+   * Modernisation de services d’accès à l’eau déjà existants ;
+   * Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
+L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
+Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
-### Produisez une étude de marché avec R ou Python
+![eau_potable](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73)
+
+## Mission:
+* Présentation d’un Blueprint avec les indicateurs pertinents  sélectionnées relatifs aux 3 domaines d’expertise;
+* Présentation d’un Mockup avec 3 vues différentes;
+* Création d’un tableau de bord avec Tableau Software.
+
+## Compétences:
+* Analyser un besoin client pour formuler des questions analytiques
+* Créer un tableau de bord répondant à des questions analytiques
+* Générer des graphiques adaptés aux types de données
+* Synthétiser des résultats à destination d'un client
+
+## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
+
+# Produisez une étude de marché avec Python
+## Problématique:
+## Mission:
+## Compétences:
+## Outils utilisés: 
 
 ### Détectez des faux billets avec R ou Python
+## Problématique:
+## Mission:
+## Compétences:
+## Outils utilisés:
 
 
