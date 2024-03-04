@@ -16,6 +16,12 @@ Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours D
 
 Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
+
+https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
+
 # Faites une analyse des ventes pour un e-commerce
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/projet_6)
 ## Problématique: 
@@ -23,8 +29,12 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 
-<p>
- <img aligh = "center" widht = "50%", src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+<p align = "center">
+ <img width="1000" height="100" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+</p>
+
+<p align = "center">
+ <img widht = "50%", src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
 </p>
 
 ## Mission: 
