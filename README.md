@@ -20,7 +20,11 @@ Vous trouverez ci dessous l'intitulé des différents projets et les compétence
 ## Problématique: 
 Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 
-![Capture d’écran (1207)](![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
+![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
+
+<p>
+ <img aligh = "center" widht = "50%", src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+</p>
 
 ## Mission: 
 * Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
