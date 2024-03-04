@@ -132,7 +132,7 @@ Vous êtes data analyst dans un cabinet de consultant spécialisé dans la trans
 Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
 
-![image](https://www.optionfinance.fr/fileadmin/_processed_/3/f/csm_Capturedecran2022-10-28a10.38.21_4e74629b9f.png)
+![image](https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg)
 
 ## Mission:
 * Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
