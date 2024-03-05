@@ -17,6 +17,8 @@ Vous trouverez ci dessous l'intitulé des différents projets et les compétence
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+https://docs.github.com/fr/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
+
 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
 
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
