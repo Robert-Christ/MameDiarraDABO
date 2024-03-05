@@ -15,16 +15,14 @@
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau, Pandas, Numpy, Matplotlib, Seaborn.
 
 Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
-
+<!--
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
 https://docs.github.com/fr/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
-
 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
-
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
+# Faites une analyse des ventes pour un e-commerce
+--->
 
-<!-- # Faites une analyse des ventes pour un e-commerce --->
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
 Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
