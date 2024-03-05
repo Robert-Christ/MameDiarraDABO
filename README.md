@@ -209,9 +209,12 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
 Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
 <p align = "center">
- <img width="1000" height="200" src = "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"/>
+ <img width="1000" height="200" src = "https://img.freepik.com/photos-premium/faux-billet-dollar-americain-lumiere-uv_213438-1621.jpg"/>
 </p>
 
+<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
+  --->
+  
 ## Mission:
 * Voir les traitements et analyses réalisés en amont;
 * Les différentes pistes explorées pour la construction de l’algorithme;
