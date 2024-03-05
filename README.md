@@ -186,7 +186,6 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau De
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
 L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
 Votre manager, Patrick, vous briefe par un e-mail :
-
 <p align = "center">
  <img width="1000" height="200" src = "https://previews.123rf.com/images/monticello/monticello1308/monticello130800184/21809839-poulets-%C3%A0-la-ferme-avicole-traditionnel-libre-de-gamme.jpg"/>
 </p>
@@ -196,8 +195,6 @@ Votre manager, Patrick, vous briefe par un e-mail :
 * Utiliser la méthode des k-means, afin d’affiner l’analyse ;
 * Comparer les résultats des deux méthodes de clustering ;
 * Réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
-![image](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/6f17cc0f-038b-40bf-88ee-8766989687e4)
-
 ## Compétences:
 * Explorer des données pour synthétiser des variables
 * Effectuer un clustering simple
