@@ -75,10 +75,8 @@ Excel, Draw.io, Langage SQL, PowerPoint
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
 Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est enthousiaste à votre arrivée. En effet, Julien, l'ancien data analyst, a récemment été muté, et votre équipe vient de se voir confier la réalisation d’une étude de grande ampleur sur le thème de l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
-
-![image](https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp)
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="200" src = "https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp"/>
 </p>
 
 ## Mission:
