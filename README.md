@@ -71,7 +71,7 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
 
-# Réalisez une étude de santé publique avec R ou Python
+# [Réalisez une étude de santé publique avec R ou Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
@@ -96,7 +96,7 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-# Optimisez la gestion des données d'une boutique avec Python
+# [Optimisez la gestion des données d'une boutique avec Python](https://github.com/MameDiarraDABO/Projet_5_Data_Analyst)
 ## Problématique:
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 <p align = "center">
