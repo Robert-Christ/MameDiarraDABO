@@ -6,9 +6,10 @@
 - 🤔 I’m looking for help with ...
 - 💬 Vous pouvez m'écrire: diarradabo@hotmail.fr
 - 📫 Vous connectez avec moi: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+--->
 
 # Mes projets Data Analyst avec OpenClassrooms
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau, Pandas, Numpy, Matplotlib, Seaborn.
@@ -115,7 +116,7 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 # Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-# Analysez les ventes d'une librairie avec Python
+# [Analysez les ventes d'une librairie avec Python](https://github.com/MameDiarraDABO/Projet_6_Data_Analyst)
 ## Problématique:
 L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
 La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle vous a recruté. Vous intervenez en tant que Data Analyst afin de faire le point sur l’activité. 
@@ -137,7 +138,7 @@ Antoine, Business Analyst.
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-# Analysez des indicateurs de l'égalité femme-homme avec Knime
+# [Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/MameDiarraDABO/Projet_7_Data_Analyst)
 ## Problématique:
 Vous êtes data analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés devient un véritable enjeu stratégique.
 Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
@@ -157,7 +158,7 @@ Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doive
 ## Outils utilisés:
 Excel, Python, KNIME
 
-# Faites une étude sur l'eau potable
+# [Faites une étude sur l'eau potable](https://github.com/MameDiarraDABO/Projet_8_Data_Analyst)
 ## Problématique:
 Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 * DWFA présente 3 domaines d’expertises :
@@ -183,7 +184,7 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
-# Produisez une étude de marché avec Python
+# [Produisez une étude de marché avec Python](https://github.com/MameDiarraDABO/Projet_9_Data_Analyst)
 ## Problématique:
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
 L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
@@ -203,7 +204,7 @@ Votre manager, Patrick, vous briefe par un e-mail :
 ## Outils utilisés: 
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
-### Détectez des faux billets avec R ou Python
+# [Détectez des faux billets avec Python](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
 ## Problématique:
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
 Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
