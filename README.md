@@ -192,6 +192,12 @@ Votre manager, Patrick, vous briefe par un e-mail :
 </p>
 
 ## Mission:
+* Tester la classification ascendante hiérarchique, avec un dendrogramme comme visualisation ;
+* Utiliser la méthode des k-means, afin d’affiner l’analyse ;
+* Comparer les résultats des deux méthodes de clustering ;
+* Réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
+![image](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/6f17cc0f-038b-40bf-88ee-8766989687e4)
+
 ## Compétences:
 * Explorer des données pour synthétiser des variables
 * Effectuer un clustering simple
@@ -207,6 +213,9 @@ Cette institution a pour objectif de mettre en place des méthodes d’identific
 </p>
 
 ## Mission:
+* Voir les traitements et analyses réalisés en amont;
+* Les différentes pistes explorées pour la construction de l’algorithme;
+* Ainsi que le modèle final retenu.
 ## Compétences:
 * Réaliser une régression logistique
 * Opérer des classifications automatiques pour partitionner les données
