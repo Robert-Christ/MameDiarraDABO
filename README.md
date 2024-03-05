@@ -26,15 +26,11 @@ https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/projet_6)
 ## Problématique: 
 Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
-
+<!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
-
+--->
 <p align = "center">
- <img width="1000" height="100" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
-</p>
-
-<p align = "center">
- <img widht = "50%", src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
 </p>
 
 ## Mission: 
@@ -54,8 +50,9 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers.
 Ce projet stratégique est appelé en interne le projet « DATAImmo ». La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
 Dans ce cadre, elle vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
-
-![Capture d’écran](https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg)
+<p align = "center">
+ <img width="1000" height="200" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+</p>
 
 ## Mission: 
 * Préparer Le dictionnaire des données en respectant le Template ;
@@ -80,6 +77,9 @@ Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objecti
 Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est enthousiaste à votre arrivée. En effet, Julien, l'ancien data analyst, a récemment été muté, et votre équipe vient de se voir confier la réalisation d’une étude de grande ampleur sur le thème de l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
 
 ![image](https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp)
+<p align = "center">
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+</p>
 
 ## Mission:
 * La proportion de personnes en état de sous-nutrition ;
@@ -104,6 +104,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 
 ![image](https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg)
+<p align = "center">
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+</p>
 
 ## Mission:
 * Rapprocher deux exports ;
@@ -129,6 +132,9 @@ Julie, Business Intelligence Analyst ;
 Antoine, Business Analyst.
 
 ![image](https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg)
+<p align = "center">
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+</p>
 
 ## Mission:
 * Une analyse des différents indicateurs de vente ;
@@ -149,6 +155,9 @@ Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Lau
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
 
 ![image](https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg)
+<p align = "center">
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+</p>
 
 ## Mission:
 * Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
@@ -173,6 +182,9 @@ L’association a effectué une demande de financement auprès d’un bailleur d
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 ![eau_potable](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73)
+<p align = "center">
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+</p>
 
 ## Mission:
 * Présentation d’un Blueprint avec les indicateurs pertinents  sélectionnées relatifs aux 3 domaines d’expertise;
