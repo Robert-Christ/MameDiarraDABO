@@ -23,8 +23,8 @@ https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
 
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
-# Faites une analyse des ventes pour un e-commerce
-# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/projet_6)
+<!-- # Faites une analyse des ventes pour un e-commerce --->
+# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
 Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 <!--
@@ -46,7 +46,7 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 ## Outils utilisés:
   * Excel, PowerPoint.
 
-# Créez et utilisez une base de données immobilière avec SQL
+# [Créez et utilisez une base de données immobilière avec SQL](https://github.com/MameDiarraDABO/Projet_3_Data_Analyst)
 ## Problématique:
 Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers.
 Ce projet stratégique est appelé en interne le projet « DATAImmo ». La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
