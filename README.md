@@ -11,7 +11,6 @@
 
 
 # Mes projets Data Analyst avec OpenClassrooms
-
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau, Pandas, Numpy, Matplotlib, Seaborn.
 
 Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
@@ -88,12 +87,10 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 * ceux qui ont le plus bénéficié d’aide depuis 2013;
 * ceux ayant le plus/le moins de disponibilité/habitant;
 * Toutes les infos que je trouverais utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
-  
 ## Compétences: 
   * Rédiger et présenter une méthodologie d'exploration et d'analyse des données
   * Manipuler des DataFrames
   * Utiliser des librairies spécialisées pour les traitements data
-
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -109,12 +106,10 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 * Le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaire réalisé en ligne ;
 * La vérification des erreurs de saisie dans certains prix des produits ;
 * Effectuer une analyse sur cette variable afin de détecter des valeurs aberrantes. 
-
 ## Compétences:
   * Réaliser une analyse univariée pour interpréter des données
   * Classifier différents types de données
   * Gérer les erreurs et les incohérences présentes sur des données stockées
-
 # Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -126,21 +121,17 @@ L’équipe Marketing que vous intégrez se compose de :
 Annabelle, responsable Marketing ;
 Julie, Business Intelligence Analyst ;
 Antoine, Business Analyst.
-
-![image](https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg)
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="200" src = "https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg"/>
 </p>
 
 ## Mission:
 * Une analyse des différents indicateurs de vente ;
 * Une analyse plus ciblée sur les clients.
-  
 ## Compétences:
   * Réaliser un test statistique
   * Réaliser une analyse bivariée pour interpréter des données
   * Analyser des séries temporelles
-
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -150,20 +141,17 @@ Vous êtes data analyst dans un cabinet de consultant spécialisé dans la trans
 Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
 
-![image](https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg)
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="200" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
 </p>
 
 ## Mission:
 * Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
 * Sauvegarder un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
-
 ## Compétences:
 * Collecter des données en respectant le RGPD
 * Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
 * Transférer des données vers une zone de préparation
-
 ## Outils utilisés:
 Excel, Python, KNIME
 
@@ -177,35 +165,54 @@ Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water 
 L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
-![eau_potable](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73)
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73"/>
 </p>
 
 ## Mission:
 * Présentation d’un Blueprint avec les indicateurs pertinents  sélectionnées relatifs aux 3 domaines d’expertise;
 * Présentation d’un Mockup avec 3 vues différentes;
 * Création d’un tableau de bord avec Tableau Software.
-
 ## Compétences:
 * Analyser un besoin client pour formuler des questions analytiques
 * Créer un tableau de bord répondant à des questions analytiques
 * Générer des graphiques adaptés aux types de données
 * Synthétiser des résultats à destination d'un client
-
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
 # Produisez une étude de marché avec Python
 ## Problématique:
+Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
+L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
+Votre manager, Patrick, vous briefe par un e-mail :
+
+<p align = "center">
+ <img width="1000" height="200" src = "https://previews.123rf.com/images/monticello/monticello1308/monticello130800184/21809839-poulets-%C3%A0-la-ferme-avicole-traditionnel-libre-de-gamme.jpg"/>
+</p>
+
 ## Mission:
 ## Compétences:
+* Explorer des données pour synthétiser des variables
+* Effectuer un clustering simple
 ## Outils utilisés: 
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 ### Détectez des faux billets avec R ou Python
 ## Problématique:
+Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
+Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
+<p align = "center">
+ <img width="1000" height="200" src = "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"/>
+</p>
+
 ## Mission:
 ## Compétences:
+* Réaliser une régression logistique
+* Opérer des classifications automatiques pour partitionner les données
+* Réaliser une analyse prédictive
+* Réaliser une régression linéaire
 ## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 
