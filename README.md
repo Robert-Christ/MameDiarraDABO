@@ -40,9 +40,9 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 * Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ).
 
 ## Compétences:
-  * Générer des graphiques adaptés aux types de données
-  * Interpréter les informations provenant d'un dashboard
-  * Synthétiser des résultats à destination d'un client
+  - [x] Générer des graphiques adaptés aux types de données
+  - [x] Interpréter les informations provenant d'un dashboard
+  - [x] Synthétiser des résultats à destination d'un client
 
 ## Outils utilisés:
   * Excel, PowerPoint.
@@ -63,11 +63,11 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 * Faire des requêtes pour extraire des informations.
 
 ## Compétences:
-  * Charger des données dans une base de données
-  * Créer des tables dans une base de données
-  * Créer le schéma d'une base de données
-  * Effectuer des requêtes SQL pour répondre à une problématique métier
-  * Mettre à jour un catalogue de données
+  - [x] Charger des données dans une base de données
+  - [x] Créer des tables dans une base de données
+  - [x] Créer le schéma d'une base de données
+  - [x] Effectuer des requêtes SQL pour répondre à une problématique métier
+  - [x] Mettre à jour un catalogue de données
 
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
@@ -91,9 +91,9 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 * ceux ayant le plus/le moins de disponibilité/habitant;
 * Toutes les infos que je trouverais utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
 ## Compétences: 
-  * Rédiger et présenter une méthodologie d'exploration et d'analyse des données
-  * Manipuler des DataFrames
-  * Utiliser des librairies spécialisées pour les traitements data
+  - [x] Rédiger et présenter une méthodologie d'exploration et d'analyse des données
+  - [x] Manipuler des DataFrames
+  - [x] Utiliser des librairies spécialisées pour les traitements data
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -110,9 +110,9 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 * La vérification des erreurs de saisie dans certains prix des produits ;
 * Effectuer une analyse sur cette variable afin de détecter des valeurs aberrantes. 
 ## Compétences:
-  * Réaliser une analyse univariée pour interpréter des données
-  * Classifier différents types de données
-  * Gérer les erreurs et les incohérences présentes sur des données stockées
+  - [x] Réaliser une analyse univariée pour interpréter des données
+  - [x] Classifier différents types de données
+  - [x] Gérer les erreurs et les incohérences présentes sur des données stockées
 # Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -132,9 +132,9 @@ Antoine, Business Analyst.
 * Une analyse des différents indicateurs de vente ;
 * Une analyse plus ciblée sur les clients.
 ## Compétences:
-  * Réaliser un test statistique
-  * Réaliser une analyse bivariée pour interpréter des données
-  * Analyser des séries temporelles
+  - [x] Réaliser un test statistique
+  - [x] Réaliser une analyse bivariée pour interpréter des données
+  - [x] Analyser des séries temporelles
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -152,9 +152,9 @@ Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doive
 * Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
 * Sauvegarder un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
 ## Compétences:
-* Collecter des données en respectant le RGPD
-* Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
-* Transférer des données vers une zone de préparation
+- [x] Collecter des données en respectant le RGPD
+- [x] Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
+- [x] Transférer des données vers une zone de préparation
 ## Outils utilisés:
 Excel, Python, KNIME
 
@@ -177,10 +177,10 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 * Présentation d’un Mockup avec 3 vues différentes;
 * Création d’un tableau de bord avec Tableau Software.
 ## Compétences:
-* Analyser un besoin client pour formuler des questions analytiques
-* Créer un tableau de bord répondant à des questions analytiques
-* Générer des graphiques adaptés aux types de données
-* Synthétiser des résultats à destination d'un client
+- [x] Analyser un besoin client pour formuler des questions analytiques
+- [x] Créer un tableau de bord répondant à des questions analytiques
+- [x] Générer des graphiques adaptés aux types de données
+- [x] Synthétiser des résultats à destination d'un client
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
@@ -199,8 +199,8 @@ Votre manager, Patrick, vous briefe par un e-mail :
 * Comparer les résultats des deux méthodes de clustering ;
 * Réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
 ## Compétences:
-* Explorer des données pour synthétiser des variables
-* Effectuer un clustering simple
+- [x] Explorer des données pour synthétiser des variables
+- [x] Effectuer un clustering simple
 ## Outils utilisés: 
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
@@ -220,10 +220,10 @@ Cette institution a pour objectif de mettre en place des méthodes d’identific
 * Les différentes pistes explorées pour la construction de l’algorithme;
 * Ainsi que le modèle final retenu.
 ## Compétences:
-* Réaliser une régression logistique
-* Opérer des classifications automatiques pour partitionner les données
-* Réaliser une analyse prédictive
-* Réaliser une régression linéaire
+- [x] Réaliser une régression logistique
+- [x] Opérer des classifications automatiques pour partitionner les données
+- [x] Réaliser une analyse prédictive
+- [x] Réaliser une régression linéaire
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
