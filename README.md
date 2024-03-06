@@ -45,7 +45,7 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
   - [x] Synthétiser des résultats à destination d'un client
 
 ## Outils utilisés:
-  * Excel, PowerPoint.
+Excel, PowerPoint.
 
 # [Créez et utilisez une base de données immobilière avec SQL](https://github.com/MameDiarraDABO/Projet_3_Data_Analyst)
 ## Problématique:
