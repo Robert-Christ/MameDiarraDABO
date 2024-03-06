@@ -16,7 +16,7 @@ Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours D
 
 Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
 > [!NOTE]
-> Le projet 1 est absent de mon Portfolio car evalue des compétences de type softs kills pour le metier de Data Analyst puis le projet 2 ne comporte pas de code (Excel).
+> Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
 <!--
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://docs.github.com/fr/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
