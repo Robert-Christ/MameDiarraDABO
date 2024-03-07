@@ -125,8 +125,9 @@ L’équipe Marketing que vous intégrez se compose de :
 Annabelle, responsable Marketing ;
 Julie, Business Intelligence Analyst ;
 Antoine, Business Analyst.
+<!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
- <img width="1000" height="250" src = "https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg"/>
+ <img width="1000" height="250" src = "https://thumbs.dreamstime.com/b/librairie-de-clessence-%C3%A0-chongqing-86159883.jpg"/>
 </p>
 
 ## Mission:
