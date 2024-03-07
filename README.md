@@ -194,7 +194,7 @@ Vous travaillez chez La poule qui chante, une entreprise française d’agroalim
 L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
 Votre manager, Patrick, vous briefe par un e-mail :
 <p align = "center">
- <img width="1000" height="200" src = "https://previews.123rf.com/images/monticello/monticello1308/monticello130800184/21809839-poulets-%C3%A0-la-ferme-avicole-traditionnel-libre-de-gamme.jpg"/>
+ <img width="1000" height="200" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
 </p>
 
 ## Mission:
