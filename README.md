@@ -184,6 +184,10 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
+> [!IMPORTANT]
+> Dashbord d'étude sur l'eau potable: 
+> https://public.tableau.com/app/profile/mame.diarra.dabo/viz/Dashboard-DWFA/HistoireDWFA
+
 # [Produisez une étude de marché avec Python](https://github.com/MameDiarraDABO/Projet_9_Data_Analyst)
 ## Problématique:
 Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
