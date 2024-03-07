@@ -32,7 +32,7 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="250" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
 </p>
 
 ## Mission: 
@@ -53,7 +53,7 @@ Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immob
 Ce projet stratégique est appelé en interne le projet « DATAImmo ». La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
 Dans ce cadre, elle vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
- <img width="1000" height="200" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+ <img width="1000" height="250" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
 </p>
 
 ## Mission: 
@@ -78,7 +78,7 @@ Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Fo
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
 Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est enthousiaste à votre arrivée. En effet, Julien, l'ancien data analyst, a récemment été muté, et votre équipe vient de se voir confier la réalisation d’une étude de grande ampleur sur le thème de l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
 <p align = "center">
- <img width="1000" height="200" src = "https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp"/>
+ <img width="1000" height="250" src = "https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp"/>
 </p>
 
 ## Mission:
@@ -101,7 +101,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 ## Problématique:
 Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle.
 <p align = "center">
- <img width="1000" height="200" src = "https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg"/>
+ <img width="1000" height="250" src = "https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg"/>
 </p>
 
 ## Mission:
@@ -125,7 +125,7 @@ Annabelle, responsable Marketing ;
 Julie, Business Intelligence Analyst ;
 Antoine, Business Analyst.
 <p align = "center">
- <img width="1000" height="200" src = "https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg"/>
+ <img width="1000" height="250" src = "https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg"/>
 </p>
 
 ## Mission:
@@ -145,7 +145,7 @@ Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Lau
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
 
 <p align = "center">
- <img width="1000" height="200" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
+ <img width="1000" height="250" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
 </p>
 
 ## Mission:
@@ -169,7 +169,7 @@ L’association a effectué une demande de financement auprès d’un bailleur d
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 <p align = "center">
- <img width="1000" height="200" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73"/>
+ <img width="1000" height="250" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73"/>
 </p>
 
 ## Mission:
@@ -194,7 +194,7 @@ Vous travaillez chez La poule qui chante, une entreprise française d’agroalim
 L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
 Votre manager, Patrick, vous briefe par un e-mail :
 <p align = "center">
- <img width="1000" height="200" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
+ <img width="1000" height="250" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
 </p>
 
 ## Mission:
@@ -213,7 +213,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
 Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
 <p align = "center">
- <img width="1000" height="200" src = "https://img.freepik.com/photos-premium/faux-billet-dollar-americain-lumiere-uv_213438-1621.jpg"/>
+ <img width="1000" height="250" src = "https://img.freepik.com/photos-premium/faux-billet-dollar-americain-lumiere-uv_213438-1621.jpg"/>
 </p>
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
