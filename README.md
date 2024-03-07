@@ -169,7 +169,7 @@ L’association a effectué une demande de financement auprès d’un bailleur d
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 <p align = "center">
- <img width="1000" height="250" src = "https://la1ere.francetvinfo.fr/image/yB8NMCEkyc1G_YpgbnoMF9iOg-c/600x400/outremer/2019/10/03/5d965713cc1ea_journee-mondiale-de-leau-1043122.jpg"/>
+ <img width="1000" height="250" src = "https://www.encyclopedie-environnement.org/app/uploads/2017/10/eau-potable_couv_eau-verre.jpg"/>
 </p>
 
 ## Mission:
