@@ -53,7 +53,7 @@ Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immob
 Ce projet stratégique est appelé en interne le projet « DATAImmo ». La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
 Dans ce cadre, elle vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
- <img width="1000" height="250" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"/>
+ <img width="1000" height="250" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
 </p>
 
 ## Mission: 
@@ -78,7 +78,7 @@ Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Fo
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
 Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est enthousiaste à votre arrivée. En effet, Julien, l'ancien data analyst, a récemment été muté, et votre équipe vient de se voir confier la réalisation d’une étude de grande ampleur sur le thème de l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
 <p align = "center">
- <img width="1000" height="250" src = "https://assets.thehansindia.com/h-upload/2022/07/06/1301462-fao.webp"/>
+ <img width="1000" height="250" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
 </p>
 
 ## Mission:
@@ -169,7 +169,7 @@ L’association a effectué une demande de financement auprès d’un bailleur d
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 <p align = "center">
- <img width="1000" height="250" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/965f92b4-8107-4204-9fc3-78dd5aa45e73"/>
+ <img width="1000" height="250" src = "https://la1ere.francetvinfo.fr/image/yB8NMCEkyc1G_YpgbnoMF9iOg-c/600x400/outremer/2019/10/03/5d965713cc1ea_journee-mondiale-de-leau-1043122.jpg"/>
 </p>
 
 ## Mission:
