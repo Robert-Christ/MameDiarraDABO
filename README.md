@@ -72,7 +72,7 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
 
-# [Réalisez une étude de santé publique avec R ou Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
+# [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
