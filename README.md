@@ -3,8 +3,8 @@
 - 🔭 Data Analyst
 - 🌱 Je viens de terminer la formation Data Analyst avec OpenClassrooms
 - 👯 Je suis à la recherche d'un contrat ou freelancer
-- 💬 Vous pouvez m'écrire: diarradabo@hotmail.fr
-- 📫 Vous connectez avec moi: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
+- 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
+- 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
