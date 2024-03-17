@@ -1,8 +1,8 @@
 # Salut je suis Mame Diarra DABO !! 👋
 
 - 🔭 Data Analyst
-- 🌱 Je viens de terminer la formation Data Analyst avec OpenClassrooms
-- 👯 Je suis à la recherche d'un contrat ou freelancer
+- 🌱 Titulaire du titre RNCP ( Niveau BAC+4)
+- 👯 Je suis à la recherche d'un poste de Data Analyst en CDI, CDD, Freelance
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
 <!--
