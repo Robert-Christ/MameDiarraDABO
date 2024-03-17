@@ -72,9 +72,6 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
 
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien: 
-
 # [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
@@ -99,6 +96,9 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
   - [x] Utiliser des librairies spécialisées pour les traitements data
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
 
 # [Optimisez la gestion des données d'une boutique avec Python](https://github.com/MameDiarraDABO/Projet_5_Data_Analyst)
 ## Problématique:
