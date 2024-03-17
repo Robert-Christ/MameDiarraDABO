@@ -72,6 +72,9 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
 
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien: 
+
 # [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
