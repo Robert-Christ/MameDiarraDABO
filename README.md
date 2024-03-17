@@ -122,6 +122,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_5_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_032022.ipynb
 
 # [Analysez les ventes d'une librairie avec Python](https://github.com/MameDiarraDABO/Projet_6_Data_Analyst)
 ## Problématique:
@@ -148,6 +149,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_6_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_042023.ipynb
 
 # [Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/MameDiarraDABO/Projet_7_Data_Analyst)
 ## Problématique:
@@ -195,9 +197,6 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
-
 > [!IMPORTANT]
 > Dashbord d'étude sur l'eau potable: 
 > https://public.tableau.com/app/profile/mame.diarra.dabo/viz/Dashboard-DWFA/HistoireDWFA
@@ -223,7 +222,9 @@ Votre manager, Patrick, vous briefe par un e-mail pour te briefer sur la mission
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
+> Vous pouvez consulter les notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_1_preparation_nettoyage_analyse_exploratoire_082023.ipynb
+> https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_2_clustering_visualisations_082023.ipynb
 
 # [Détectez des faux billets avec Python](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
 ## Problématique:
@@ -249,5 +250,6 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 
 
