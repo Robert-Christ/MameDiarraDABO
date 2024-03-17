@@ -120,6 +120,9 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
 # Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+
 # [Analysez les ventes d'une librairie avec Python](https://github.com/MameDiarraDABO/Projet_6_Data_Analyst)
 ## Problématique:
 L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
@@ -142,6 +145,9 @@ Antoine, Business Analyst.
   - [x] Analyser des séries temporelles
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
 
 # [Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/MameDiarraDABO/Projet_7_Data_Analyst)
 ## Problématique:
@@ -189,6 +195,9 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
 
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+
 > [!IMPORTANT]
 > Dashbord d'étude sur l'eau potable: 
 > https://public.tableau.com/app/profile/mame.diarra.dabo/viz/Dashboard-DWFA/HistoireDWFA
@@ -213,6 +222,9 @@ Votre manager, Patrick, vous briefe par un e-mail pour te briefer sur la mission
 ## Outils utilisés: 
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+
 # [Détectez des faux billets avec Python](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
 ## Problématique:
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
@@ -223,7 +235,6 @@ Cette institution a pour objectif de mettre en place des méthodes d’identific
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
-  
 ## Mission:
 * Voir les traitements et analyses réalisés en amont;
 * Les différentes pistes explorées pour la construction de l’algorithme;
@@ -235,5 +246,8 @@ Cette institution a pour objectif de mettre en place des méthodes d’identific
 - [x] Réaliser une régression linéaire
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
 
 
