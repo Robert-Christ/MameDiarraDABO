@@ -35,7 +35,7 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
  <img width="1000" height="300" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
 </p>
 
-## Mission: 
+## Objectif: 
 * Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
 * Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ).
 
@@ -81,7 +81,7 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
  <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
 </p>
 
-## Mission:
+## Objectif: 
 * La proportion de personnes en état de sous-nutrition ;
 * Le nombre théorique de personnes qui pourraient être nourries à partir de la disponibilité alimentaire mondiale ;
 * La disponibilité alimentaire des produits végétaux ;
@@ -108,7 +108,7 @@ Aujourd’hui est un grand jour, vous commencez votre mission en tant que data a
  <img width="1000" height="300" src = "https://boutique.vignoblesk.com/includes/images/desktop/Silder/Slide01.jpg"/>
 </p>
 
-## Mission:
+## Objectif: 
 * Rapprocher deux exports ;
 * Le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaire réalisé en ligne ;
 * La vérification des erreurs de saisie dans certains prix des produits ;
@@ -137,7 +137,7 @@ Antoine, Business Analyst.
  <img width="1000" height="300" src = "https://thumbs.dreamstime.com/b/librairie-de-clessence-%C3%A0-chongqing-86159883.jpg"/>
 </p>
 
-## Mission:
+## Objectif: 
 * Une analyse des différents indicateurs de vente ;
 * Une analyse plus ciblée sur les clients.
 ## Compétences:
@@ -161,7 +161,7 @@ Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doive
  <img width="1000" height="300" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
 </p>
 
-## Mission:
+## Objectif: 
 * Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
 * Sauvegarder un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
 ## Compétences:
@@ -185,7 +185,7 @@ Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront perm
  <img width="1000" height="300" src = "https://www.encyclopedie-environnement.org/app/uploads/2017/10/eau-potable_couv_eau-verre.jpg"/>
 </p>
 
-## Mission:
+## Objectif: 
 * Présentation d’un Blueprint avec les indicateurs pertinents  sélectionnées relatifs aux 3 domaines d’expertise;
 * Présentation d’un Mockup avec 3 vues différentes;
 * Création d’un tableau de bord avec Tableau Software.
@@ -210,7 +210,7 @@ Votre manager, Patrick, vous briefe par un e-mail pour te briefer sur la mission
  <img width="1000" height="300" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
 </p>
 
-## Mission:
+## Objectif: 
 * Tester la classification ascendante hiérarchique, avec un dendrogramme comme visualisation ;
 * Utiliser la méthode des k-means, afin d’affiner l’analyse ;
 * Comparer les résultats des deux méthodes de clustering ;
@@ -236,7 +236,7 @@ Cette institution a pour objectif de mettre en place des méthodes d’identific
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
-## Mission:
+## Objectif: 
 * Voir les traitements et analyses réalisés en amont;
 * Les différentes pistes explorées pour la construction de l’algorithme;
 * Ainsi que le modèle final retenu.
