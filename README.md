@@ -27,7 +27,7 @@ https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
-Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
+Travailler sur le rapport mensuel des actions marketing de mon équipe.
 <!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
@@ -49,9 +49,7 @@ Excel, PowerPoint.
 
 # [Créez et utilisez une base de données immobilière avec SQL](https://github.com/MameDiarraDABO/Projet_3_Data_Analyst)
 ## Problématique:
-Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers.
-Ce projet stratégique est appelé en interne le projet « DATAImmo ». La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.
-Dans ce cadre, elle vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
+Faire la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
  <img width="1000" height="300" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
 </p>
@@ -74,9 +72,8 @@ Excel, Draw.io, Langage SQL, PowerPoint
 
 # [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
-Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
-Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
-Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est enthousiaste à votre arrivée. En effet, Julien, l'ancien data analyst, a récemment été muté, et votre équipe vient de se voir confier la réalisation d’une étude de grande ampleur sur le thème de l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
+Rejoingnant une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO).C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ».
+Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
 <p align = "center">
  <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
 </p>
