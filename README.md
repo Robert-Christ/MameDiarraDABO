@@ -99,7 +99,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 # [Optimisez la gestion des données d'une boutique avec Python](https://github.com/MameDiarraDABO/Projet_5_Data_Analyst)
 ## Problématique:
-Aujourd’hui est un grand jour, vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux. Votre manager sur cette mission (Laurent) vous accueille chaleureusement et vous propose de partager un petit café avec le reste de l’équipe du service Numérique. L’ambiance est bonne, et vous voilà déjà parfaitement intégré dans cette équipe détendue mais professionnelle. 
+Rapprochement entre des bases de données. 
 <!--https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg -->
 <p align = "center">
  <img width="1000" height="300" src = "https://boutique.vignoblesk.com/includes/images/desktop/Silder/Slide01.jpg"/>
@@ -123,12 +123,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 # [Analysez les ventes d'une librairie avec Python](https://github.com/MameDiarraDABO/Projet_6_Data_Analyst)
 ## Problématique:
-L’entreprise Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne.
-La structure a besoin d’aide pour mieux comprendre ses données, c’est pourquoi elle vous a recruté. Vous intervenez en tant que Data Analyst afin de faire le point sur l’activité. 
-L’équipe Marketing que vous intégrez se compose de : 
-Annabelle, responsable Marketing ;
-Julie, Business Intelligence Analyst ;
-Antoine, Business Analyst.
+Faire le point après deux ans d'exercice, pouvoir analyser ses points forts, ses points faibles, les comportements clients.
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
  <img width="1000" height="300" src = "https://thumbs.dreamstime.com/b/librairie-de-clessence-%C3%A0-chongqing-86159883.jpg"/>
@@ -150,9 +145,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 # [Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/MameDiarraDABO/Projet_7_Data_Analyst)
 ## Problématique:
-Vous êtes data analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés devient un véritable enjeu stratégique.
-Ce matin, en arrivant à votre poste de travail, vous recevez un courriel de Laura, la directrice des ressources humaines avec en copie Vincent, contrôleur de gestion sociale.
-Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes. Comme tu le sais, nous sommes en phase de croissance importante, et il me semble important d’avoir une politique volontariste pour développer l’égalité femmes-hommes dans notre cabinet. Cela nous permettra d’améliorer notre marque employeur et d’attirer plus facilement des talents.
+Automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes..
 
 <p align = "center">
  <img width="1000" height="300" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
@@ -170,12 +163,13 @@ Excel, Python, KNIME
 
 # [Faites une étude sur l'eau potable](https://github.com/MameDiarraDABO/Projet_8_Data_Analyst)
 ## Problématique:
-Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
+En mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 * DWFA présente 3 domaines d’expertises :
    * Création de services d’accès à l’eau potable ;
    * Modernisation de services d’accès à l’eau déjà existants ;
    * Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
-L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
+
+Une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
 Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
 
 <p align = "center">
@@ -200,9 +194,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau De
 
 # [Produisez une étude de marché avec Python](https://github.com/MameDiarraDABO/Projet_9_Data_Analyst)
 ## Problématique:
-Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
-L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
-Votre manager, Patrick, vous briefe par un e-mail pour te briefer sur la mission d’analyse pour le lancement à l’international.
+Proposer une première analyse des groupements de pays que l’on peut cibler pour exporter nos poulets.
 <p align = "center">
  <img width="1000" height="300" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
 </p>
@@ -225,8 +217,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 # [Détectez des faux billets avec Python](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
 ## Problématique:
-Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
-Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
+Mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets.
 <p align = "center">
  <img width="1000" height="300" src = "https://img.freepik.com/photos-premium/faux-billet-dollar-americain-lumiere-uv_213438-1621.jpg"/>
 </p>
