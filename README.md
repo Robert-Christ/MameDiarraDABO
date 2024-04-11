@@ -245,7 +245,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 ## Problématique:
 Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse4.mm.bing.net/th?id=OIP.E9Ux33FuCo7mGLn9Ey3wnAHaE8&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sV6dTT1_zeWhqzUqu6po2QHaD4&pid=Api&P=0&h=180"/>
 </p>
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
