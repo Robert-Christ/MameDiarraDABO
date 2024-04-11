@@ -241,7 +241,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 
-# [Faire une prédiction sur les ventes](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
+# [Faire une prédiction sur les ventes](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
 ## Problématique:
 Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
 <p align = "center">
@@ -262,5 +262,5 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
+> https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
 
