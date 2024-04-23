@@ -258,7 +258,7 @@ Mettre en place une modélisation capable de prédire les ventes d'une supermarc
 - [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
 - [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
 ## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
@@ -267,7 +267,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 # [Détection de fraude par carte de crédit (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
 ## Problématique:
-Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
+Une modélisation qui soit en mesure de reconnaître les transactions frauduleuses par carte de crédit afin que les clients ne soient pas facturés pour des articles qu'ils n'ont pas achetés par les sociétés émettrices de cartes de crédit.
 <p align = "center">
  <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.YNixgzOEeZ34ylHaLKQ0UQHaC5&pid=Api&P=0&h=180"/>
 </p>
@@ -281,14 +281,16 @@ Mettre en place une modélisation capable de prédire les ventes d'une supermarc
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
 ## Objectif: 
-* Réaliser une courte analyse exploratoire.
-* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
+* Travailler uniquement avec des variables d'entrée numériques qui sont le résultat d'une transformation PCA.
+* Réaliser une analyse exploratoire des données non transformées par avec le PCA.
+* Travailler avec des données déséquilibrés de classe.
 ## Compétences:
-- [x] Évaluer les performances d’un modèle d'apprentissage supervisé
-- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
-- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+- [x] Tester différents modèles d'apprentissage supervisé automatique pour la détection de fraude par carte de crédit (sur des données déséquilibrées).
+- [x] Évaluer les performances d’un modèle d'apprentissage (sur des données déséquilibrées) avec une métrique adapté au problème métier.
+- [x] Passer au technique de rééchantillonnage des données (classe cible)
+- [x] Réévaluer les performances d’un modèle d'apprentissage (sur des données équilibrées après rééchantillonnage)
 ## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
