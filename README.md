@@ -264,3 +264,27 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
 
+
+# [Détection de fraude par carte de crédit](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
+## Problématique:
+Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sV6dTT1_zeWhqzUqu6po2QHaD4&pid=Api&P=0&h=180"/>
+</p>
+
+<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
+  --->
+## Objectif: 
+* Réaliser une courte analyse exploratoire.
+* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
+## Compétences:
+- [x] Évaluer les performances d’un modèle d'apprentissage supervisé
+- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
+
