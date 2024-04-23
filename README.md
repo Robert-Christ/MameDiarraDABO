@@ -265,7 +265,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
 
 
-# [Détection de fraude par carte de crédit (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
+# [Détection de fraude par carte de crédit (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Fraude_Carte_Credit)
 ## Problématique:
 Une modélisation qui soit en mesure de reconnaître les transactions frauduleuses par carte de crédit afin que les clients ne soient pas facturés pour des articles qu'ils n'ont pas achetés par les sociétés émettrices de cartes de crédit.
 <p align = "center">
