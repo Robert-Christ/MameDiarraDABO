@@ -14,7 +14,7 @@
 # Mes projets Data Analyst avec OpenClassrooms
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau, Pandas, Numpy, Matplotlib, Seaborn.
 
-Vous trouverez ci dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
+Vous trouverez ci dessous l'intitulé des différents projets avec des projets personnels et les compétences acquises pour chacun d'eux.
 > [!NOTE]
 > Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
 <!--
@@ -241,7 +241,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 
-# [Faire une prédiction sur les ventes](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
+# [Faire une prédiction sur les ventes (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
 ## Problématique:
 Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
 <p align = "center">
@@ -265,12 +265,18 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
 
 
-# [Détection de fraude par carte de crédit](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
+# [Détection de fraude par carte de crédit (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
 ## Problématique:
 Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sV6dTT1_zeWhqzUqu6po2QHaD4&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.YNixgzOEeZ34ylHaLKQ0UQHaC5&pid=Api&P=0&h=180"/>
 </p>
+
+<!--
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.SJE3CAC6bEcAOzSdxEckLwHaEK&pid=Api&P=0&h=180"/>
+</p>
+--->
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
