@@ -33,7 +33,7 @@ Travailler sur le rapport mensuel des actions marketing de mon équipe.
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
 <p align = "center">
- <img width="1000" height="300" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87"/>
+ <img width="1000" height="300" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d8"/>
 </p>
 
 ## Objectif: 
@@ -47,6 +47,9 @@ Travailler sur le rapport mensuel des actions marketing de mon équipe.
 
 ## Outils utilisés:
 Excel, PowerPoint.
+
+> [!NOTE]
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
 
 # [Créez et utilisez une base de données immobilière avec SQL](https://github.com/MameDiarraDABO/Projet_3_Data_Analyst)
 ## Problématique:
@@ -70,6 +73,9 @@ Faire la modification de la base de données permettant de collecter les transac
 
 ## Outils utilisés:
 Excel, Draw.io, Langage SQL, PowerPoint
+
+> [!NOTE]
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_3_Data_Analyst
 
 # [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
