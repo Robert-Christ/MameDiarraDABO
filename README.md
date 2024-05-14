@@ -218,7 +218,7 @@ Proposer une première analyse des groupements de pays que l’on peut cibler po
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
-> Vous pouvez consulter les notebook de ce projet via ce lien:
+> Vous pouvez consulter les notebooks de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_1_preparation_nettoyage_analyse_exploratoire_082023.ipynb
 > https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_2_clustering_visualisations_082023.ipynb
 
