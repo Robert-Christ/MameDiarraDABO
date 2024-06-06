@@ -292,7 +292,7 @@ Une modélisation qui soit en mesure de reconnaître les transactions frauduleus
   <!--lien projet: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud--->
 ## Objectif: 
 * Travailler uniquement avec des variables d'entrée numériques qui sont le résultat d'une transformation PCA.
-* Réaliser une analyse exploratoire des données non transformées par avec le PCA.
+* Réaliser une analyse exploratoire des données non transformées par le PCA.
 * Travailler avec des données déséquilibrés de classe.
 ## Compétences:
 - [x] Tester différents modèles d'apprentissage supervisé automatique pour la détection de fraude par carte de crédit (sur des données déséquilibrées).
