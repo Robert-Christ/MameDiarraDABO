@@ -256,6 +256,8 @@ Mettre en place une modélisation capable de prédire les ventes d'une supermarc
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
+
+  <!--lien projet: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales--->
 ## Objectif: 
 * Réaliser une courte analyse exploratoire.
 * Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
@@ -286,6 +288,8 @@ Une modélisation qui soit en mesure de reconnaître les transactions frauduleus
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
+
+  <!--lien projet: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud--->
 ## Objectif: 
 * Travailler uniquement avec des variables d'entrée numériques qui sont le résultat d'une transformation PCA.
 * Réaliser une analyse exploratoire des données non transformées par avec le PCA.
