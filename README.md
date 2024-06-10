@@ -32,8 +32,13 @@ Travailler sur le rapport mensuel des actions marketing de mon équipe.
 <!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
+<!--
 <p align = "center">
  <img width="1000" height="300" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d8"/>
+</p>
+--->
+<p align = "center">
+ <img width="1000" height="300" src = "https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl=1"/>
 </p>
 
 ## Objectif: 
