@@ -312,7 +312,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_Personnel_Fraude_Carte_Credit/blob/main/Detection_fraude_carte.ipynb
 
-# [Prédiction de la note d'une application playstore (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+# [Prédiction de la note d'une application Play Store (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
 ## Problématique:
 Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
