@@ -19,6 +19,7 @@ Vous trouverez ci dessous l'intitulé des différents projets avec des projets p
 > Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
 <!--
 https://www.youtube.com/watch?v=MFPyVDSZVK0&t=100s
+https://www.youtube.com/watch?v=vD-t_IohSbo&t=612s
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://docs.github.com/fr/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
