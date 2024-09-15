@@ -335,5 +335,48 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
+# [Analyse des données des jeux olympiques avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+## Problématique:
+Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.7N1LVojzhyO-cpsLBnJkgAHaEK&pid=Api&P=0&h=180"/>
+</p>
+
+## Objectif: 
+* Réaliser une courte analyse exploratoire.
+* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
+## Compétences:
+- [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
+- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+
+# [𝗖𝗿𝗲́𝗮𝘁𝗶𝗼𝗻 𝗱'𝘂𝗻 𝗿𝗮𝗽𝗽𝗼𝗿𝘁 𝗽𝗼𝘂𝗿 𝗮𝗻𝗮𝗹𝘆𝘀𝗲𝗿 𝗹𝗲𝘀 𝘃𝗲𝗻𝘁𝗲𝘀 𝗽𝗮𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗱𝗮𝗻𝘀 𝘂𝗻𝗲 𝗯𝗼𝗶𝘁𝗲 avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+## Problématique:
+Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.b9gey54oUed6ehNgaJ2pUAAAAA&pid=Api&P=0&h=180"/>
+</p>
+
+## Objectif: 
+* Réaliser une courte analyse exploratoire.
+* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
+## Compétences:
+- [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
+- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+
+
 
 
