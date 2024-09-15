@@ -356,11 +356,11 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
-# [𝗖𝗿𝗲́𝗮𝘁𝗶𝗼𝗻 𝗱'𝘂𝗻 𝗿𝗮𝗽𝗽𝗼𝗿𝘁 𝗽𝗼𝘂𝗿 𝗮𝗻𝗮𝗹𝘆𝘀𝗲𝗿 𝗹𝗲𝘀 𝘃𝗲𝗻𝘁𝗲𝘀 𝗽𝗮𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗱𝗮𝗻𝘀 𝘂𝗻𝗲 𝗯𝗼𝗶𝘁𝗲 avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
 ## Problématique:
 Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.b9gey54oUed6ehNgaJ2pUAAAAA&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.EeoUeCbKC9InK4Q7S_N5cgHaEw&pid=Api&P=0&h=180"/>
 </p>
 
 ## Objectif: 
