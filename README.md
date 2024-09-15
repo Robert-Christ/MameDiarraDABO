@@ -337,7 +337,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 # [Analyse des données des jeux olympiques avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
 ## Problématique:
-Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+Faire une analyse du taux de participation des jeux olympiques sur le genre, le nombre de médaille par genre, les meilleurs athlètes, les pays avec le plus de médailles etc...
 <p align = "center">
  <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.7N1LVojzhyO-cpsLBnJkgAHaEK&pid=Api&P=0&h=180"/>
 </p>
@@ -353,12 +353,12 @@ Mettre en place une modélisation capable de prédire une application gratuite o
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
+> Vous pouvez consulter le lien de ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
 # [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
 ## Problématique:
-Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manager.
 <p align = "center">
  <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.EeoUeCbKC9InK4Q7S_N5cgHaEw&pid=Api&P=0&h=180"/>
 </p>
@@ -366,7 +366,7 @@ Mettre en place une modélisation capable de prédire une application gratuite o
 ## Objectif: 
 * Faire une analyse avec les différentes indicateurs.
 * Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
-* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Managers.
+* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
 ## Compétences:
 - [x] Chargement puis transformation des données
 - [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
@@ -376,7 +376,7 @@ Mettre en place une modélisation capable de prédire une application gratuite o
 Power BI, power query, DAX
 
 > [!NOTE]
-> Vous pouvez consulter le rapportvde ce projet au format PDF3 via ce lien:
+> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
 
