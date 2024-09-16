@@ -377,7 +377,7 @@ Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager/tree/main
 
 
 
