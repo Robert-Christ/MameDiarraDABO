@@ -351,6 +351,7 @@ Faire une analyse du taux de participation des jeux olympiques sur le genre, le 
 - [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
 - [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
 - [x] Mettre en place les filtres puis les renseigner
+- [x] Insertion des graphiques
 - [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
@@ -374,8 +375,8 @@ Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manage
 - [x] Chargement puis transformation des données
 - [x] Création de modèle de données
 - [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
-- [x] Création de graphiques
 - [x] Mettre en place les filtres puis les renseigner
+- [x] Insertion des graphiques
 - [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
@@ -385,23 +386,22 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
 
 
-# [Bière artisanales avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
+# [Création d'un Dashboard pour détecter les Brasseries et la production de Bière par Zone avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
 ## Problématique:
-Création d'un Dashboard avec Power BI pour évaluer les ventes réaliser par Manager.
+Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
 <p align = "center">
  <img width="1000" height="300" src = "https://www.plantes-et-sante.fr/images/articles/biere.jpg_720_1000_2"/>
 </p>
 
 ## Objectif: 
 * Faire une analyse avec les différentes indicateurs.
-* Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
-* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
+* Réaliser différentes graphiques
+* Interagir avec les filtres (aux utilisateurs).
 ## Compétences:
 - [x] Chargement puis transformation des données
 - [x] Création de modèle de données
-- [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
-- [x] Création de graphiques
 - [x] Mettre en place les filtres puis les renseigner
+- [x] Insertions des graphiques
 - [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
