@@ -346,9 +346,10 @@ Faire une analyse du taux de participation des jeux olympiques sur le genre, le 
 * Réaliser une courte analyse exploratoire.
 * Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
 ## Compétences:
-- [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
-- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
-- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+- [x] Chargement puis transformation des données
+- [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
+- [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
+- [x] Mettre en place les filtres puis les renseigner
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
