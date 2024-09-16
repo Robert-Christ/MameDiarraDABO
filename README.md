@@ -347,10 +347,11 @@ Faire une analyse du taux de participation des jeux olympiques sur le genre, le 
 * Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
 * Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
 ## Compétences:
-- [x] Chargement puis transformation des données
+- [x] Importation puis transformation des données
 - [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
 - [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
 - [x] Mettre en place les filtres puis les renseigner
+- [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
 
@@ -371,15 +372,43 @@ Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manage
 * Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
 ## Compétences:
 - [x] Chargement puis transformation des données
-- [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
+- [x] Création de modèle de données
 - [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
+- [x] Création de graphiques
 - [x] Mettre en place les filtres puis les renseigner
+- [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
+
+
+# [Bière artisanales avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager)
+## Problématique:
+Création d'un Dashbord avec Power BI pour évaluer les ventes réaliser par Manager.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.EeoUeCbKC9InK4Q7S_N5cgHaEw&pid=Api&P=0&h=180"/>
+</p>
+
+## Objectif: 
+* Faire une analyse avec les différentes indicateurs.
+* Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
+* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
+## Compétences:
+- [x] Chargement puis transformation des données
+- [x] Création de modèle de données
+- [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
+- [x] Création de graphiques
+- [x] Mettre en place les filtres puis les renseigner
+- [x] Enregister puis Publier
+## Outils utilisés:
+Power BI, power query, DAX
+
+> [!NOTE]
+> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
+> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bière
 
 
 
