@@ -356,7 +356,7 @@ Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le lien de ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Jeux_Olympiques
 
 # [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager)
 ## Problématique:
