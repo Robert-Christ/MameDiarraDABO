@@ -385,11 +385,11 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
 
 
-# [Bière artisanales avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager)
+# [Bière artisanales avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
 ## Problématique:
-Création d'un Dashbord avec Power BI pour évaluer les ventes réaliser par Manager.
+Création d'un Dashboard avec Power BI pour évaluer les ventes réaliser par Manager.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.EeoUeCbKC9InK4Q7S_N5cgHaEw&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://www.plantes-et-sante.fr/images/articles/biere.jpg_720_1000_2"/>
 </p>
 
 ## Objectif: 
@@ -408,7 +408,7 @@ Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bière
+> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
 
 
 
