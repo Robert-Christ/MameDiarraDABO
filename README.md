@@ -356,7 +356,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le lien de ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
-# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager)
 ## Problématique:
 Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manager.
 <p align = "center">
