@@ -379,7 +379,7 @@ Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager/tree/main
+> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
 
 
 
