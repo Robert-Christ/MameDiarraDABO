@@ -343,8 +343,8 @@ Faire une analyse du taux de participation des jeux olympiques sur le genre, le 
 </p>
 
 ## Objectif: 
-* Faire une analyse avec les différentes indicateurs.
-* Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
+* Définir les différentes indicateurs.
+* Création des graphiques.
 * Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
 ## Compétences:
 - [x] Importation puis transformation des données
