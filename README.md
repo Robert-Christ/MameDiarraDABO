@@ -343,15 +343,14 @@ Faire une analyse du taux de participation des jeux olympiques sur le genre, le 
 </p>
 
 ## Objectif: 
-* Définir les différentes indicateurs.
+* Définir les métriques à visualiser.
 * Création des graphiques.
-* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
+* Interactivité des graphiques aux utilisateurs pour naviguer puis analyser.
 ## Compétences:
 - [x] Importation puis transformation des données
 - [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
-- [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
 - [x] Mettre en place les filtres puis les renseigner
-- [x] Insertion des graphiques
+- [x] Création des graphiques
 - [x] Enregister puis Publier
 ## Outils utilisés:
 Power BI, power query, DAX
