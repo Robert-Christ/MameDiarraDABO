@@ -411,5 +411,26 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
 
 
+# [Analyse des données de listes des films et séries TV Netflix (Projet_Personnel en cours)](https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-)
+## Problématique:
+
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sTmtgjXPsBjdMNzAoeYFOgHaD4&pid=Api&P=0&h=180"/>
+</p>
+
+<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
+  --->
+## Objectif: 
+
+## Compétences:
+
+## Outils utilisés:
+jupyterLab
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
+
+
 
 
