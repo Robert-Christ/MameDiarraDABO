@@ -411,7 +411,7 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
 
 
-# [Analyse de listes des films et séries TV Netflix (Projet_Personnel en cours)](https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-)
+# [Analyse des listes de films et séries TV Netflix (Projet_Personnel en cours)](https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-)
 ## Problématique:
 
 <p align = "center">
