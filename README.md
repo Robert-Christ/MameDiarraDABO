@@ -427,10 +427,10 @@ Power BI, power query, DAX
 ## Outils utilisés:
 jupyterLab
 
+ <!--
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
-
-
+--->
 
 
