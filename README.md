@@ -1,8 +1,9 @@
 # Salut je suis Mame Diarra DABO !! 👋
 
-- 🔭 Data Analyst
-- 🌱 Titulaire du titre RNCP ( Niveau BAC+4)
-- 👯 Je suis à la recherche d'un poste de Data Analyst en CDI, CDD, Freelance
+- 🔭 Data Scientist & Analyst | Data Visualisation & Machine Learning
+- 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
+- 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées, Big Data, Data Science et Analyse des Risques sous Python
+- 👯 Je suis à la recherche d'un poste dans ce domaine en Stage, CDI, CDD, Freelance
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
 <!--
