@@ -324,7 +324,7 @@ Mettre en place une modélisation capable de prédire une application gratuite o
 
 ## Objectif: 
 * Réaliser une courte analyse exploratoire.
-* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
+* Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
 ## Compétences:
 - [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
 - [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
@@ -413,7 +413,7 @@ Power BI, power query, DAX
 
 # [Analyse des listes de films et séries TV Netflix (Projet_Personnel en cours)](https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-)
 ## Problématique:
-
+Netflix est l'une des plateformes de streaming multimédia et vidéo les plus populaires avec plus de 8 000 films ou séries télévisées sont disponibles sur sa plateforme.
 <p align = "center">
  <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sTmtgjXPsBjdMNzAoeYFOgHaD4&pid=Api&P=0&h=180"/>
 </p>
@@ -421,11 +421,15 @@ Power BI, power query, DAX
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
   --->
 ## Objectif: 
+* Comprendre quel contenu est disponible dans différents pays
+* Identifier un contenu similaire en faisant correspondre des fonctionnalités textuelles
+* Analyse de réseau d'acteurs/réalisateurs et découverte d'informations intéressantes
+* Netflix se concentre-t-il davantage sur les émissions de télévision que sur les films ces dernières années ?
 
 ## Compétences:
 
 ## Outils utilisés:
-jupyterLab
+jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
  <!--
 > [!NOTE]
@@ -433,21 +437,21 @@ jupyterLab
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 --->
 
-# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
+# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Dashboard_LinkedIn)
 ## Problématique:
-Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
+Exploiter et analyser mes données avec les principales informations de notre réseau LinkedIn  .
 <p align = "center">
  <img width="1000" height="300" src = "https://media.licdn.com/dms/image/v2/D4E16AQH10Qbyu4zm8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727248601871?e=1732752000&v=beta&t=-NkjkqPvOun2pOTFenzn06GusWB-5oX2-ZOVL-h9Kcw"/>
 </p>
 
 ## Objectif: 
-* Faire une analyse avec les différentes indicateurs.
-* Réaliser différentes graphiques
-* Interagir avec les filtres (aux utilisateurs).
+* Faire une analyse avec les différentes informations des données.
+* Réaliser différentes graphiques pour visualiser ces données
+
 ## Compétences:
 - [x] Chargement puis transformation des données
 - [x] Création de modèle de données
-- [x] Mettre en place les filtres puis les renseigner
+- [x] Création de nouvelles mesures
 - [x] Insertions des graphiques
 - [x] Enregister puis Publier
 ## Outils utilisés:
@@ -455,6 +459,6 @@ Power BI, power query, DAX
 
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
+> https://github.com/MameDiarraDABO/Dashboard_LinkedIn
 
 
