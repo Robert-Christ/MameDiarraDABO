@@ -433,4 +433,28 @@ jupyterLab
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 --->
 
+# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
+## Problématique:
+Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
+<p align = "center">
+ <img width="1000" height="300" src = "https://media.licdn.com/dms/image/v2/D4E16AQH10Qbyu4zm8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727248601871?e=1732752000&v=beta&t=-NkjkqPvOun2pOTFenzn06GusWB-5oX2-ZOVL-h9Kcw"/>
+</p>
+
+## Objectif: 
+* Faire une analyse avec les différentes indicateurs.
+* Réaliser différentes graphiques
+* Interagir avec les filtres (aux utilisateurs).
+## Compétences:
+- [x] Chargement puis transformation des données
+- [x] Création de modèle de données
+- [x] Mettre en place les filtres puis les renseigner
+- [x] Insertions des graphiques
+- [x] Enregister puis Publier
+## Outils utilisés:
+Power BI, power query, DAX
+
+> [!NOTE]
+> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
+> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
+
 
