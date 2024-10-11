@@ -434,11 +434,10 @@ Netflix est l'une des plateformes de streaming multimédia et vidéo les plus po
 ## Outils utilisés:
 jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
- <!--
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
---->
+
 
 # [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Dashboard_LinkedIn)
 ## Problématique:
