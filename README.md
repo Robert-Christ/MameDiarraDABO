@@ -427,7 +427,10 @@ Netflix est l'une des plateformes de streaming multimédia et vidéo les plus po
 * Netflix se concentre-t-il davantage sur les émissions de télévision que sur les films ces dernières années ?
 
 ## Compétences:
-
+- [x] Rédiger et présenter une méthodologie d'exploration et d'analyse des données
+- [x] Réaliser une analyse univariée pour interpréter des données
+- [x] Classifier différents types de données
+- [x] Gérer les erreurs et les incohérences présentes sur des données stockées
 ## Outils utilisés:
 jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
