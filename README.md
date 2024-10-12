@@ -443,7 +443,7 @@ jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine l
 ## Problématique:
 Exploiter et analyser mes données avec les principales informations de notre réseau LinkedIn  .
 <p align = "center">
- <img width="1000" height="300" src = "file:///C:/Users/diarr/Downloads/Banni%C3%A8re%20LinkedIn%20Technologie%20Abstraite%20en%20Bleu%20et%20Blanc%20(2).png"/>
+ <img width="1000" height="300" src = "C:\Users\diarr\Downloads\Bannière LinkedIn Technologie Abstraite en Bleu et Blanc (2).png"/>
 </p>
 
 ## Objectif: 
