@@ -415,7 +415,7 @@ Power BI, power query, DAX
 ## Problématique:
 Netflix est l'une des plateformes de streaming multimédia et vidéo les plus populaires avec plus de 8 000 films ou séries télévisées sont disponibles sur sa plateforme.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sTmtgjXPsBjdMNzAoeYFOgHaD4&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.Ff-_cUDbJOnQfpAU9fVLuQHaEO&pid=Api&P=0&h=180"/>
 </p>
 
 <!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
