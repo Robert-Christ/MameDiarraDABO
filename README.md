@@ -443,7 +443,7 @@ jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine l
 ## Problématique:
 Exploiter et analyser mes données avec les principales informations de notre réseau LinkedIn  .
 <p align = "center">
- <img width="1000" height="300" src = "https://media.licdn.com/dms/image/v2/D4E16AQH10Qbyu4zm8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727248601871?e=1732752000&v=beta&t=-NkjkqPvOun2pOTFenzn06GusWB-5oX2-ZOVL-h9Kcw"/>
+ <img width="1000" height="300" src = "https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/overlay/background-image/"/>
 </p>
 
 ## Objectif: 
