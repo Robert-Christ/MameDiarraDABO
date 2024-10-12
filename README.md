@@ -3,7 +3,7 @@
 - 🔭 Data Scientist & Analyst | Python | SQL | Data Visualisation & Machine Learning
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
 - 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées, Big Data, Data Science et Analyse des Risques sous Python
-- 👯 Je suis à la recherche d'un poste dans ce domaine en Stage, CDI, CDD, Freelance
+- 👯 Je suis à la recherche d'un stage en Analyste Risques Junior disponible dès mi_février
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
 <!--
