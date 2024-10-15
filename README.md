@@ -468,7 +468,7 @@ Power BI, power query, DAX
 ## Problématique:
 Créez un modèle de classification qui utilise des fonctionnalités de données textuelles et des méta-fonctionnalités afin de prédire les descriptions de postes frauduleuses ou réelles.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.ti_H4MmtRxIJSvUk3ZhtbAHaE8&pid=Api&P=0&h=18"/>
+ <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.5d8HD9TDKtU1ap_r__-MpQHaEK&pid=Api&P=0&h=180"/>
 </p>
 
 ## Objectif: 
@@ -477,9 +477,7 @@ Créez un modèle de classification qui utilise des fonctionnalités de données
 ## Compétences:
 
 ## Outils utilisés:
-Power BI, power query, DAX
 
-> [!NOTE]
 
 
 
