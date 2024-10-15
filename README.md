@@ -462,5 +462,24 @@ Power BI, power query, DAX
 > [!NOTE]
 > Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Dashboard_LinkedIn
+ 
+
+# [Prédiction des offres d'emploi réelles/fausses (Projet_Personnel)](en cours)
+## Problématique:
+Créez un modèle de classification qui utilise des fonctionnalités de données textuelles et des méta-fonctionnalités afin de prédire les descriptions de postes frauduleuses ou réelles.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.ti_H4MmtRxIJSvUk3ZhtbAHaE8&pid=Api&P=0&h=18"/>
+</p>
+
+## Objectif: 
+
+
+## Compétences:
+
+## Outils utilisés:
+Power BI, power query, DAX
+
+> [!NOTE]
+
 
 
