@@ -466,12 +466,36 @@ Power BI, power query, DAX
 
 # [Prédiction des offres d'emploi réelles/fausses (Projet_Personnel)](en cours)
 ## Problématique:
-Créez un modèle de classification qui utilise des fonctionnalités de données textuelles et des méta-fonctionnalités afin de prédire les descriptions de postes frauduleuses ou réelles.
+Créez un modèle de classification afin de prédire les descriptions de postes frauduleuses ou réelles.
 <p align = "center">
  <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.5d8HD9TDKtU1ap_r__-MpQHaEK&pid=Api&P=0&h=180"/>
 </p>
 
 ## Objectif: 
+* Créez un modèle de classification qui utilise des fonctionnalités de données textuelles et des méta-fonctionnalités et prédisez quelles descriptions de poste sont frauduleuses ou réelles.
+* Identifier les traits/caractéristiques clés (mots, entités, phrases) des descriptions de poste qui sont de nature frauduleuse.
+* Exécutez un modèle d’intégration contextuelle pour identifier les descriptions de poste les plus similaires.
+* Effectuer une analyse exploratoire des données sur l’ensemble de données pour identifier des informations intéressantes à partir de cet ensemble de données.
+
+
+## Compétences:
+
+## Outils utilisés:
+
+
+# [Analyse des données sur l'énergie nucléaire(Projet_Personnel)](en cours)
+## Problématique:
+L’énergie nucléaire est un sujet crucial à l’heure où les pays du monde entier cherchent à décarboner leurs réseaux électriques et à lutter contre le changement climatique. Dans le même temps, les préoccupations concernant la sécurité, l’élimination des déchets et la prolifération des armes suscitent un débat permanent sur le rôle que le nucléaire devrait jouer dans la transition énergétique.
+<p align = "center">
+ <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.p7WnpxOnIpGecimHbm-jRQHaDV&pid=Api&P=0&h=180"/>
+</p>
+
+## Objectif: 
+* Examen des tendances en matière de production et de capacité d’énergie nucléaire au fil du temps et selon les régions géographiques
+* Comparaison du bilan de sécurité du nucléaire avec celui des autres sources d'énergie
+* Analyser la production et les prix de l'uranium pour comprendre la dynamique du combustible nucléaire
+* Identifier les principaux exploitants de centrales nucléaires et leurs sociétés mères
+* Évaluer le rôle actuel et potentiel futur du nucléaire dans le mix électrique de divers pays et régions
 
 
 ## Compétences:
