@@ -1,9 +1,9 @@
 # Salut je suis Mame Diarra DABO !! 👋
 
-- 🔭 Data Scientist & Analyst | Python | SQL | Data Visualisation & Machine Learning
+- 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
 - 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées, Big Data, Data Science et Analyse des Risques sous Python
-- 👯 Je suis à la recherche d'un stage en Data Analyst / Analyste Risques Junior disponible dès mi_février
+- 👯 Je suis à la recherche d'un stage en Data Analyst / Analyste Risques Junior  afin de valider mon diplôme. Disponible dès mi_février
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
 <!--
@@ -13,9 +13,9 @@
 --->
 
 # Mes projets Data Analyst avec OpenClassrooms
-Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau, Pandas, Numpy, Matplotlib, Seaborn.
+Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau Desktop, PowerBI, Pandas, Numpy, Matplotlib, Seaborn.
 
-Vous trouverez ci dessous l'intitulé des différents projets avec des projets personnels et les compétences acquises pour chacun d'eux.
+Vous trouverez ci dessous l'intitulé des différents projets avec des projets personnels réalisés et les compétences acquises pour chacun d'eux.
 > [!NOTE]
 > Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
 <!--
