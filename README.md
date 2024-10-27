@@ -487,7 +487,7 @@ Créez un modèle de classification afin de prédire les descriptions de postes 
 ## Problématique:
 L’énergie nucléaire est un sujet crucial à l’heure où les pays du monde entier cherchent à décarboner leurs réseaux électriques et à lutter contre le changement climatique. Dans le même temps, les préoccupations concernant la sécurité, l’élimination des déchets et la prolifération des armes suscitent un débat permanent sur le rôle que le nucléaire devrait jouer dans la transition énergétique.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.IutdA8gY8sROj95vTCO0uQHaEK&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.IutdA8gY8sROj95vTCO0uQHaEK&pid=Api&P=0&h=18"/>
 </p>
 
 ## Objectif: 
