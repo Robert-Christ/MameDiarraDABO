@@ -483,7 +483,7 @@ Créez un modèle de classification afin de prédire les descriptions de postes 
 ## Outils utilisés:
 
 
-# [Analyse des données sur l'énergie nucléaire(Projet_Personnel)](en cours)
+# [Analyse de données sur l'énergie nucléaire(Projet_Personnel)](en cours)
 ## Problématique:
 L’énergie nucléaire est un sujet crucial à l’heure où les pays du monde entier cherchent à décarboner leurs réseaux électriques et à lutter contre le changement climatique. Dans le même temps, les préoccupations concernant la sécurité, l’élimination des déchets et la prolifération des armes suscitent un débat permanent sur le rôle que le nucléaire devrait jouer dans la transition énergétique.
 <p align = "center">
