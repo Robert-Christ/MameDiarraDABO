@@ -42,7 +42,7 @@ Travailler sur le rapport mensuel des actions marketing de mon équipe.
 https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
 --->
 <p align = "center">
- <img width="1000" height="300" src = "https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl="/>
+ <img width="1000" height="300" src = "https://(https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG)"/>
 </p>
 
 ## Objectif: 
